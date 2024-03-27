@@ -1,7 +1,7 @@
 # YouTube Downloader GUI
 
 Welcome to YouTube Downloader GUI! This project allows you to download audio, video, and playlists from YouTube in a user-friendly graphical interface. 
-Whether you're looking to save your favorite songs, videos, or entire playlists, this Python application built with PyQt makes it easy and fun.
+Whether you're looking to save your favourite songs, videos, or entire playlists, this Python application built with PyQt makes it easy and fun.
 
 ## Features
 
@@ -17,6 +17,4 @@ Whether you're looking to save your favorite songs, videos, or entire playlists,
 - PyQt5 library
 - youtube_dl library
 
-## Installation
-
-1. Clone the repository:
+## Enjoy downloading your favourite content hassle-free! Happy downloading!
